@@ -1,0 +1,17 @@
+    1  logoff
+    2  exit() logoff
+    3  sudo apt update
+    4  sudo apt upgrade
+    5  gcc --version
+    6  sudo apt install build-essential
+    7  gdb --version
+    8  git --version
+    9  sudo apt install gdb
+   10  git clone https://github.com/remzi-arpacidusseau/ostep-code.git ostepcode
+   11  pwd
+   12  whoami
+   13  ls -al
+   14  cd ostepcode
+   15  ls -al
+   16  history
+   17  history > history.txt
